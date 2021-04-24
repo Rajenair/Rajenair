@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajenair
 
-- 🌱 I’m currently learning Depp NEural NEtwork using Python
+- 🌱 I’m currently learning Deep Neural Networks using Python
 
 
 <!---
